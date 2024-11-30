@@ -23,14 +23,14 @@ MDScreen:
             radius:dp(self.width)
             pos_hint:{'center_x':0.5, 'top':0.5}
         MDLabel:
-            text: 'Beyonce Carte'
+            text: 'Zendaya'
             font_style:'Body1'
             font_size:dp(24)
             size_hint_y:None
             height: self.texture_size[1]+dp(10)
             halign:'center'
         MDLabel:
-            text:'Artist'
+            text:'Model & Actor'
             font_style:'Body2'
             font_size:dp(16)
             size_hint_y:None
@@ -41,7 +41,7 @@ MDScreen:
         size_hint:(1,0.7)
         pos_hint:{'top':0.7}
         MDLabel:
-            text:'(+254)797539873'
+            text:'(+258)12345678'
             font_style:'H4'
             halign:'center'
             pos_hint:{'center_x':0.5,'top':1.4}
