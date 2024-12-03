@@ -1,15 +1,10 @@
 # CallerAppScreen
 Kivymd Version of a Caller Screen 
 #Application Screen 
-![Alt screenshot ]('Screenshot.jpg')
-<img
-  src="/Screenshot.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Alt screenshot ](./Screenshot.jpg)
 
 #Gif of App
-![Alt video animation]('video_animation.mp4')
+![Alt video animation](./video_animation.mp4)
 
 <video
   src="video_animation.mp4"
