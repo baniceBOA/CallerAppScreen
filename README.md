@@ -5,7 +5,7 @@ Kivymd Version of a Caller Screen
 
 #Gif of App
 [![Animation](https://raw.githubusercontent.com/baniceBOA/CallerAppScreen/master/Screenshot.jpg)]
-(https://raw.githubusercontent.com/baniceBOA/CallerAppScreen/master/video_animation.mp4)
+![video](https://raw.githubusercontent.com/baniceBOA/CallerAppScreen/master/video_animation.mp4)
 
 <video
   src="video_animation.mp4"
